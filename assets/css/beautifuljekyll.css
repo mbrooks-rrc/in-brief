@@ -22,6 +22,7 @@ layout: null
   --body-font: 'campaign', 'Times New Roman', serif;
   --header-font: 'redaction-35', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
+  --test-var: red;
 }
 
 /* --- General --- */
